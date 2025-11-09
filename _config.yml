@@ -38,7 +38,7 @@ launch_buttons:
   notebook_interface: "jupyterlab"  # or "classic"
   colab_url: "https://colab.research.google.com"
   deepnote_url: "https://deepnote.com"
-  thebe: true
+  thebe: false
   
 sphinx:
   extra_extensions: ["sphinx_multitoc_numbering"]
