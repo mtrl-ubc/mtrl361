@@ -5,7 +5,7 @@ project:
   title: MTRL 361 Modelling of Materials Processes 
   # description:
   # keywords: []
-
+  thumbnail: ubc_mtrl_eng_logo.jpg
   github: https://github.com/mtrl-ubc/mtrl361
 
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
@@ -23,6 +23,9 @@ project:
         - file: transient-heat-transfer/theory.ipynb
         - file: transient-heat-transfer/explicit_implicit_dirichlet.ipynb
         - file: transient-heat-transfer/other_boundary_conditions.ipynb
+    - title: Iterative Solver
+      children:
+        - file: iterative-solver/example_usage.ipynb
     - title: Help us improve
       children:
         - file: survey-consent.md
@@ -32,6 +35,6 @@ site:
   parts:
     footer: footer.md
   options:
-  #   favicon: favicon.ico
+    favicon: ubc_mtrl_eng_logo.ico
     logo: ubc_mtrl_eng_logo.jpg
     logo_text: "MTRL 361: Module 2"
