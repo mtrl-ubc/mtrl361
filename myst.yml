@@ -23,6 +23,7 @@ project:
         - file: transient-heat-transfer/theory.ipynb
         - file: transient-heat-transfer/explicit_implicit_dirichlet.ipynb
         - file: transient-heat-transfer/other_boundary_conditions.ipynb
+        - file: transient-heat-transfer/varying_material_properties.ipynb
     - title: Iterative Solver
       children:
         - file: iterative-solver/example_usage.ipynb
@@ -35,6 +36,6 @@ site:
   parts:
     footer: footer.md
   options:
-    favicon: ubc_mtrl_eng_logo.ico
+    favicon: favicon.ico
     logo: ubc_mtrl_eng_logo.jpg
     logo_text: "MTRL 361: Module 2"
