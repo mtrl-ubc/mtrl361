@@ -5,7 +5,7 @@ project:
   title: MTRL 361 Modelling of Materials Processes 
   # description:
   # keywords: []
-  thumbnail: ubc_mtrl_eng_logo.jpg
+  thumbnail: transient-heat-transfer/multimaterial.png
   github: https://github.com/mtrl-ubc/mtrl361
 
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
