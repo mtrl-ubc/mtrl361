@@ -1,6 +1,7 @@
-# Python for manufacturing engineers
+# Python for Materials Engineers
 
-This notebook introduces basic Python programming concepts tailored to second-year manufacturing engineering students. The aim is to provide tools to analyze manufacturing processes, design testing plans, and understand process parameters.
+These set of notebooks introduces Python programming concepts for the third year Materials Engineering course MTRL 361 - Modelling of Materials Processes. 
+The aim is to provide tools to analyze manufacturing processes using Python by developing a set of notebooks for implementing the Finite Difference Method.
 
 ```{tableofcontents}
 ```
